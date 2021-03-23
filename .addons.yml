@@ -173,3 +173,7 @@ addons:
     repository: hassio-addons/addon-zwavejs2mqtt
     target: zwavejs2mqtt
     image: ghcr.io/hassio-addons/zwavejs2mqtt/{arch}
+  mopidy:
+    repository: hassio-addons/addon-mopidy
+    target: mopidy
+    image: ghcr.io/hassio-addons/addon-mopidy/{arch}
